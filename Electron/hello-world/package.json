@@ -1,0 +1,9 @@
+{
+    "name": "hello-world",
+    "version": "1.00",
+    "main": "main.js",
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^4.0.3"
+    }
+}
